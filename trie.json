@@ -1,0 +1,217 @@
+{
+    "root": {
+        "freq": 0,
+        "isEnd": false,
+        "children": [
+            {
+                "char": "a",
+                "freq": 15,
+                "isEnd": false,
+                "children": [
+                    {
+                        "char": "p",
+                        "freq": 15,
+                        "isEnd": false,
+                        "children": [
+                            {
+                                "char": "p",
+                                "freq": 15,
+                                "isEnd": false,
+                                "children": [
+                                    {
+                                        "char": "l",
+                                        "freq": 15,
+                                        "isEnd": false,
+                                        "children": [
+                                            {
+                                                "char": "e",
+                                                "freq": 10,
+                                                "isEnd": true,
+                                                "children": []
+                                            },
+                                            {
+                                                "char": "i",
+                                                "freq": 5,
+                                                "isEnd": false,
+                                                "children": [
+                                                    {
+                                                        "char": "c",
+                                                        "freq": 5,
+                                                        "isEnd": false,
+                                                        "children": [
+                                                            {
+                                                                "char": "a",
+                                                                "freq": 5,
+                                                                "isEnd": false,
+                                                                "children": [
+                                                                    {
+                                                                        "char": "t",
+                                                                        "freq": 5,
+                                                                        "isEnd": false,
+                                                                        "children": [
+                                                                            {
+                                                                                "char": "i",
+                                                                                "freq": 5,
+                                                                                "isEnd": false,
+                                                                                "children": [
+                                                                                    {
+                                                                                        "char": "o",
+                                                                                        "freq": 5,
+                                                                                        "isEnd": false,
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "char": "n",
+                                                                                                "freq": 5,
+                                                                                                "isEnd": true,
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "char": "b",
+                "freq": 25,
+                "isEnd": false,
+                "children": [
+                    {
+                        "char": "a",
+                        "freq": 9,
+                        "isEnd": false,
+                        "children": [
+                            {
+                                "char": "n",
+                                "freq": 3,
+                                "isEnd": false,
+                                "children": [
+                                    {
+                                        "char": "a",
+                                        "freq": 3,
+                                        "isEnd": false,
+                                        "children": [
+                                            {
+                                                "char": "n",
+                                                "freq": 3,
+                                                "isEnd": false,
+                                                "children": [
+                                                    {
+                                                        "char": "a",
+                                                        "freq": 3,
+                                                        "isEnd": true,
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "char": "t",
+                                "freq": 4,
+                                "isEnd": true,
+                                "children": []
+                            },
+                            {
+                                "char": "l",
+                                "freq": 2,
+                                "isEnd": false,
+                                "children": [
+                                    {
+                                        "char": "l",
+                                        "freq": 2,
+                                        "isEnd": true,
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "char": "o",
+                        "freq": 8,
+                        "isEnd": false,
+                        "children": [
+                            {
+                                "char": "o",
+                                "freq": 8,
+                                "isEnd": false,
+                                "children": [
+                                    {
+                                        "char": "k",
+                                        "freq": 8,
+                                        "isEnd": true,
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "char": "i",
+                        "freq": 1,
+                        "isEnd": false,
+                        "children": [
+                            {
+                                "char": "n",
+                                "freq": 1,
+                                "isEnd": false,
+                                "children": [
+                                    {
+                                        "char": "a",
+                                        "freq": 1,
+                                        "isEnd": false,
+                                        "children": [
+                                            {
+                                                "char": "r",
+                                                "freq": 1,
+                                                "isEnd": false,
+                                                "children": [
+                                                    {
+                                                        "char": "y",
+                                                        "freq": 1,
+                                                        "isEnd": true,
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "char": "e",
+                        "freq": 7,
+                        "isEnd": false,
+                        "children": [
+                            {
+                                "char": "e",
+                                "freq": 7,
+                                "isEnd": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

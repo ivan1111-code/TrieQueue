@@ -1,0 +1,12 @@
+{
+    "words": [
+        { "word": "apple", "freq": 10 },
+        { "word": "application", "freq": 5 },
+        { "word": "banana", "freq": 3 },
+        { "word": "book", "freq": 8 },
+        { "word": "binary", "freq": 1 },
+        { "word": "bee", "freq": 7 },
+        { "word": "bat", "freq": 4 },
+        { "word": "ball", "freq": 2 }
+    ]
+}
